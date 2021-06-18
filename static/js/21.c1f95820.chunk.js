@@ -1,0 +1,2 @@
+(this["webpackJsonprealtime-transcribe-react"]=this["webpackJsonprealtime-transcribe-react"]||[]).push([[21],{859:function(e,t,n){"use strict";n.r(t),n.d(t,"amplify_container",(function(){return r}));var i=n(21),r=function(){function e(e){Object(i.k)(this,e)}return e.prototype.render=function(){return Object(i.i)(i.b,null,Object(i.i)("slot",null))},e}();r.style="amplify-container{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=21.c1f95820.chunk.js.map
